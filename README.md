@@ -16,14 +16,14 @@ The methadology in brief is as folows:
 6. The weighted sum is then used as loss function in training
 
 
-The scoring based on comparison with visual ground-truth ranking, is done using this ![script](https://github.com/lakshmi-sathi/mri_reconstruction/blob/main/compare_rankings.pl) 
+The scoring based on comparison with visual ground-truth ranking, is done using this [script](compare_rankings.pl) 
 
 Seperate to this, concept of edge loss is also incorporated. 
 ![EdgeDetectionFirstResult](https://user-images.githubusercontent.com/58559090/128676856-16357c42-1344-4e50-a084-33750f8e751c.png)
 
-For visualization of fastMRI data for the above purposes this ![script](https://github.com/lakshmi-sathi/mri_reconstruction/blob/main/data_viz.py) was used.
+For visualization of fastMRI data for the above purposes this script is used [script](data_viz.py) was used.
 
 
-The paper is available ![HERE]
+The paper is available [HERE](
 
 
