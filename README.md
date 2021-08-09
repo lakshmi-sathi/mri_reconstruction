@@ -2,7 +2,7 @@
 
 The stratergy followed is to setup the baseline FastMRI network and then setup a methodology to compare effectiveness of different loss metrics like SSIM, MSE, NMSE, PSNR through assignment of visual ranking for each of them. 
 
-The sets considered for it:
+The set considered for it (23 ground-truth vs subsampled pairs):
 ![MRI_Comp1](https://user-images.githubusercontent.com/58559090/128677388-57a165f5-849b-4b00-b803-9677d1222e14.png)
 ![mriComp2](https://user-images.githubusercontent.com/58559090/128677405-5793d696-0ecc-4627-95cb-b211aeb95834.jpg)
 
