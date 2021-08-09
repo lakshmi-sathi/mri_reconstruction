@@ -11,3 +11,4 @@ The methadology in brief is as folows:
 6. The weighted sum is then used as loss function in training
 
 Seperate to this, concept of edge loss is also incorporated. 
+![EdgeDetectionFirstResult](https://user-images.githubusercontent.com/58559090/128676856-16357c42-1344-4e50-a084-33750f8e751c.png)
