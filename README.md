@@ -2,7 +2,7 @@
 
 The stratergy followed is to setup the baseline FastMRI network and then setup a methodology to compare effectiveness of different loss metrics like SSIM, MSE, NMSE, PSNR through assignment of visual ranking for each of them. 
 
-The methadology is as folows:
+The methadology in brief is as folows:
 1. Set of MRI reconstructed pairs are chosen
 2. All the different loss metrics are applied on these chosen pairs
 3. A visual ranking is assigned for the set by means of pure observation (Here observation is a substitute for actual clinical evaluation) which is considered as the golden ranking or the ground truth ranking
