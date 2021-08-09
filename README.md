@@ -24,6 +24,6 @@ Seperate to this, concept of edge loss is also incorporated.
 For visualization of fastMRI data for the above purposes this script is used [script](data_viz.py) was used.
 
 
-The paper is available [HERE](
+The paper is available [HERE](MRI_Reconstruction.pdf)
 
 
